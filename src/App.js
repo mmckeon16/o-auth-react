@@ -6,6 +6,7 @@ import { Route } from "react-router-dom";
 import Home from "./components/Home";
 import Profile from "./components/Profile";
 import About from "./components/About";
+import Callback from "./components/Callback";
 
 class App extends Component {
   constructor(props) {
@@ -24,6 +25,10 @@ class App extends Component {
           />
           <Route path="/profile" component={Profile} />
           <Route path="/about" component={About} />
+          <Route
+            path="/callback"
+            render={props => <Callback auth={this.auth} {...props} />}
+          />
         </div>
       </div>
     );
