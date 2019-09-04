@@ -15,10 +15,11 @@ export default class Auth {
   }
 
   login = () => {
-    this.auth0.authorize();
+    this.auth0.authorize(process.env.REACT_APP_AUTH0_CLIENT_ID);
   };
 
   handleAuthentication = () => {
+    console.log("we handling auth");
     this.auth0.parseHash((err, authResult) => {
       if (authResult && authResult.accessToken && authResult.idToken) {
         this.setSession(authResult);
