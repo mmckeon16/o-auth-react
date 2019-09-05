@@ -1,0 +1,48 @@
+{
+  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJqQTBNRFJETlRZNE5FVkZOVFV5UVVNek1EY3lOalE0TXpSRVEwUkZORFkxTVVZNU1qYzFRUSJ9.eyJpc3MiOiJodHRwczovL3BsdXJhbHNpZ2h0LXJlYWN0LWRldi5hdXRoMC5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMTEyNTU0Nzg0ODA3MDM2NDM4MTEiLCJhdWQiOlsiaHR0cDovL2xvY2FsaG9zdDozMDAxIiwiaHR0cHM6Ly9wbHVyYWxzaWdodC1yZWFjdC1kZXYuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTU2NzYyOTA0MSwiZXhwIjoxNTY3NjM2MjQxLCJhenAiOiJGZmVFVGVCazhKZ3F5OW9TVXVIOGtoYzNnaEpoR3FrVSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgcmVhZDpjb3Vyc2VzIn0.S3-CAQIgYazIzTtKFQRM-d_meMvJelmEOK8IkX5pQy599t4AX6vVzjHUaWZ7naS5pFqrFGFwK1fUmtNkuSWbK6JE-Xjw9w7u-2LiIGCn-pSonpL86Tz6SuEqDPhc9Ik9wdMahfSD00nQ-Ep1qALR4_uNTjwblxYFKaZHcfMCC0kd2goKpI-OkRQsWT4oFz6n9Dwaz_ky_Gf2pDvMhm6hkkWJFwzQmegSsaG0AWjUkpjf3rB7Z80txCOfMH2IhlQlu7EAJX4puIuOhIOAwi8iezjf7Tvrpzr95kXA-YYhNotGtl7gHQ-5QJCyY4OGM7m2lSdIKYJn-C4Mc8PfIqi0Lg",
+  "idToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJqQTBNRFJETlRZNE5FVkZOVFV5UVVNek1EY3lOalE0TXpSRVEwUkZORFkxTVVZNU1qYzFRUSJ9.eyJodHRwOi8vbG9jYWxob3N0OjMwMDAvcm9sZXMiOlsiYWRtaW4iXSwiZ2l2ZW5fbmFtZSI6Ik1hcnkiLCJmYW1pbHlfbmFtZSI6Ik1jS2VvbiIsIm5pY2tuYW1lIjoibW1ja2VvbjIwNCIsIm5hbWUiOiJNYXJ5IE1jS2VvbiIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQUF1RTdtRDhnMGNBODZZQ3N0NjVxVE5mY3J2VGJVRFMxNEhwNDNETnlKdGciLCJsb2NhbGUiOiJlbiIsInVwZGF0ZWRfYXQiOiIyMDE5LTA5LTA0VDIwOjMwOjQxLjA1NloiLCJlbWFpbCI6Im1tY2tlb24yMDRAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImlzcyI6Imh0dHBzOi8vcGx1cmFsc2lnaHQtcmVhY3QtZGV2LmF1dGgwLmNvbS8iLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExMTI1NTQ3ODQ4MDcwMzY0MzgxMSIsImF1ZCI6IkZmZUVUZUJrOEpncXk5b1NVdUg4a2hjM2doSmhHcWtVIiwiaWF0IjoxNTY3NjI5MDQxLCJleHAiOjE1Njc2NjUwNDEsImF0X2hhc2giOiJHM3V0LXcwdzkxZDduLU9ZM1JmeDNBIiwibm9uY2UiOiJKeGozcHcxbHZ1MUhPMTlkX3YwN3F1c3pJNGFGd3JCbSJ9.jl8z22V9tkCJxncYEu39sQ6X87SMlmFoM1u2gR36y6ndLTknACn6vVTM4FH4EtkEZej28BXHnSV8ek4NFU1xQIN8uL6Qqykk1uNTnXvc3H6-Nu-cKI77JaGWYuNKcl0PpQLLZMRa_sqDT3JaEYuqUitEyhoT1e7W3qiLo6ZeIBogjMS2Nm6MhFSY29eNak7veMpPMAE7hPMaNSUgJnjn1iHCHRqgQ35iE8BJ6IWrINkfs-x0fgL_oyaKxcfHvjNtIEWucrjF8JbDqWE_o7lBy-_XjWYE2nxCEqcjjlhHYGFlCnflyZTfVjxS_7bij6xiQ18KZ5Am8dvR_F8K_b7FcA",
+  "idTokenPayload": {
+    "http://localhost:3000/roles": ["admin"],
+    "given_name": "Mary",
+    "family_name": "McKeon",
+    "nickname": "mmckeon204",
+    "name": "Mary McKeon",
+    "picture": "https://lh3.googleusercontent.com/a-/AAuE7mD8g0cA86YCst65qTNfcrvTbUDS14Hp43DNyJtg",
+    "locale": "en",
+    "updated_at": "2019-09-04T20:30:41.056Z",
+    "email": "mmckeon204@gmail.com",
+    "email_verified": true,
+    "iss": "https://pluralsight-react-dev.auth0.com/",
+    "sub": "google-oauth2|111255478480703643811",
+    "aud": "FfeETeBk8Jgqy9oSUuH8khc3ghJhGqkU",
+    "iat": 1567629041,
+    "exp": 1567665041,
+    "at_hash": "G3ut-w0w91d7n-OY3Rfx3A",
+    "nonce": "Jxj3pw1lvu1HO19d_v07quszI4aFwrBm"
+  },
+  "appState": null,
+  "refreshToken": null,
+  "state": "wI1C3d3Xt0iVspNwkErqwCY3t0gR3136",
+  "expiresIn": 7200,
+  "tokenType": "Bearer",
+  "scope": null
+}
+https://pluralsight-react-dev.auth0.com/authorize
+?client_id=FfeETeBk8Jgqy9oSUuH8khc3ghJhGqkU
+&response_type=token
+%20id_token
+&redirect_uri=http%3A%2F%2Flocalhost%3A3000
+%2F
+callback
+&scope=openid
+%20profile
+%20email
+%20read
+%3Acourses
+&audience=http%3A%2F%2Flocalhost%3A3001
+&state=M1Y~yK9RH7zPm4QCKZ~x4M3ZGDnPp0fu
+&nonce=GU2rcHIjm0Axa9fg.AJaTLKCIY5BHMar
+&response_mode=web_message
+&prompt=none
+&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xMS4zIn0
+%3D
